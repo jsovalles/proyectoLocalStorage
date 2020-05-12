@@ -33,6 +33,8 @@ function addingTweet(e) {
 
     addToLocalStorage(tweet);
 
+    document.querySelector('#tweet').value = '';
+
 }
 
 function deleteTweet(e) {
