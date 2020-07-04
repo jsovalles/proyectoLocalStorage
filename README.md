@@ -4,7 +4,7 @@ Proyecto JavaScript de un simulador de Tweets
 
 ## Descripción del proyecto
 
-Se realizo un simulador de una plataforma de tweets (sin límite de caracteres) con un template que utilizara HTML5 y CSS; en este template se manejó dos partes básicas, en la parte izquierda se puede escribir los tweets correspondiente y el parte derecha se puede observar los tweets escritos, el usuario solamente puede agregar un tweet cuando le da click al botón de agregar.
+Se realizo un simulador de una plataforma de tweets (sin límite de caracteres) con un template que utilizara HTML5 y CSS; en este template se manejó dos partes básicas, en la parte izquierda se puede escribir el tweet que el usuario desea y el parte derecha se puede observar los tweets escritos, el usuario solamente puede agregar un tweet cuando le da click al botón de agregar.
 
 ![enter image description here](https://i.ibb.co/Lrc07nG/proyecto-localstorage.png)
 
